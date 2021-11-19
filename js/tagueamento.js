@@ -92,22 +92,3 @@ function enviado() {
       eventLabel: 'enviado'
     });
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
